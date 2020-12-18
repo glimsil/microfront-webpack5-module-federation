@@ -1,0 +1,1 @@
+cd main_app;yarn start & cd ../about_app;yarn start & cd ../other_app;yarn start & cd ../random_app;yarn start

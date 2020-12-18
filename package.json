@@ -1,0 +1,10 @@
+{
+  "name": "microfront-webpack5-module-federation",
+  "private": true,
+  "scripts": {
+    "start": "./run.sh"
+  },
+  "dependencies": {
+    "webpack-cli": "^4.2.0"
+  }
+}
