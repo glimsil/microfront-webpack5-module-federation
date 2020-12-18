@@ -1,7 +1,5 @@
 # microfront-webpack5-module-federation
-This is a sample of microfrontends running with webpack5 and module federation.
-
-The applications are built in react.
+This is a sample of microfrontends running with webpack5 and module federation.The applications are built using react.
 
 To execute this sample, just type `yarn && yarn start`.
 
